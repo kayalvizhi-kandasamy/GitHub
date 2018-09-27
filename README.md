@@ -18,7 +18,7 @@ Solution
 Yes..The solution to avoid the HTTP protocol overhead is to make use of Cross-Context Way of communication between web applications 
 what is experimented in the code
 
-So there are two maven projects, 'Foo' and 'Bar' in which the the traditional way of communication ('forward'/ 'redirect') 
+So there are two maven projects, 'Foo' and 'Bar' in which the traditional way of communication ('forward'/ 'redirect') 
 and cross-context way of communication between web applications are implemented. Added to that, the concept of serialization 
 and deserialization of custom data type objects when used as parameters of a method invocation and/or as a 
 return type of a method is also implemented. 
